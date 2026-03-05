@@ -1,0 +1,4 @@
+*.class
+bin/
+.vscode/.browse.c_cpp.db*
+.DS_Store

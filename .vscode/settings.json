@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "files.exclude": {
+    "**/*.class": true
+  },
+  "java.debug.settings.onBuildFailureProceed": true,
+  "code-runner.executorMap": {
+    "java": "cd $dir && javac $fileName && java $fileNameWithoutExt"
+  },
+  "code-runner.runInTerminal": true
+}
